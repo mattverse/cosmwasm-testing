@@ -2,3 +2,4 @@
 
 export * as CounterContract from "./CounterContract"
 export * as TokenfactoryContract from "./TokenfactoryContract"
+export * as TwapContract from "./TwapContract"
